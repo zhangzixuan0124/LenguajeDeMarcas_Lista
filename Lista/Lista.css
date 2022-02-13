@@ -1,0 +1,69 @@
+.table1 {
+    width: 50%;
+    margin: auto;
+    border:1px solid black;
+  }
+
+.table2{
+    margin: auto;
+    width: 70%;
+    
+    
+}
+.botr{
+    border-bottom:1px solid black;
+    border-right:1px solid black;
+    border-left:3px dotted red;
+
+}
+.bot{
+    border-bottom:1px solid black;
+    border-right:3px dotted red;
+}
+.right{
+
+ border-right:1px solid black;
+ border-bottom:3px dotted red;
+ border-left:3px dotted red;
+
+}
+.tht2{
+    border-bottom: 3px dotted red;
+    border-right:1px solid black;
+    border-top:1px solid black;
+    border-left:1px solid black;
+}
+.tht2-2{
+    border-bottom: 3px dotted red;
+    border-right:1px solid black;
+    border-top:1px solid black;
+} 
+.botright{
+    border-bottom: 3px dotted red;
+    border-right: 3px dotted red;
+
+}  
+caption{
+    background-color: yellow;
+    font-size:x-large;
+    color: blue;
+}
+p{
+    padding-left:20% ;
+    padding-right:20% ;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 5px solid red;
+    background-color: yellow;
+    font-size: 24px;
+    color: blue;
+}
+h1{
+    text-align: center;
+    font-family: 'Hanalei', cursive;
+}
+div{
+    border: 1px solid black;
+}
